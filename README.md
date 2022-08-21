@@ -1,4 +1,4 @@
-<img src="https://a.top4top.io/p_23181ith60.jpg" alt="Bomber">
+
 Most Updated SMS Bomber For Bangladeshi Numbers
 
 ### Version 3.0 Updates:
