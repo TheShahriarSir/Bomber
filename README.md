@@ -1,4 +1,4 @@
-<img src="https://a.top4top.io/p_23181ith60.jpg" alt="ToxicBomber">
+<img src="https://a.top4top.io/p_23181ith60.jpg" alt="Bomber">
 Most Updated SMS Bomber For Bangladeshi Numbers
 
 ### Version 3.0 Updates:
@@ -15,25 +15,11 @@ apt upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
-git clone https://github.com/Toxic-Noob/ToxicBomber
+git clone https://github.com/rownok860/bomber
 cd ToxicBomber
 python Tbomb.py
 ```
 
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
-<li>ToxicNoob Will Never Be Responsible For Any Misuse</li>
-<li>Use It At Your Own Risk</li>
-
-## Contact :
-For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="https://facebook.com/ToxicNoobOfficial">Facebook Page</a>
-<li> Via <a href="mailto: ContactWithToxicNoob@gmail.com">Email</a>
-
-
-# Screenshot:
-<img src="https://c.top4top.io/p_23185bxls0.jpg" alt="ToxicBomber">
-
-### Visitors :
-
-![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
+<li>This Tool Is Only For Educational Purpose</li>
