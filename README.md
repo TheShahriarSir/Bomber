@@ -15,7 +15,7 @@ apt upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
-git clone https://github.com/rownok860/bomber
+git clone https://github.com/rownok860/Bomber
 cd Bomber
 python Tbomb.py
 ```
