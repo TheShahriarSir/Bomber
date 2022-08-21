@@ -1,6 +1,6 @@
 # ToxicBomber
 # Tool : Unlimited SMS Bombing In Bangladeshi Numbers
-#Author : ToxicNoob
+
 # Coder : HunterSl4d3
 
 import time
@@ -27,7 +27,7 @@ def update():
         toolVersion = "ToxicNoob"
     
     try:
-        mainVersion = requests.get("https://raw.githubusercontent.com/Toxic-Noob/ToxicBomber/main/more/.version").text
+        mainVersion = requests.get("https://raw.githubusercontent.com/rownok860/Bomber/main/more/.version").text
     except:
         psb("\n\033[92m    [\033[91m!\033[92m] Please Connect To The Internet!")
         time.sleep(1)
@@ -48,7 +48,7 @@ def update():
     psb("\033[92m    [\033[37m*\033[92m] Starting Tool...")
     time.sleep(0.8)
     
-    os.system("cd .. && cd ToxicBomber && python Tbomb.py")
+    os.system("cd .. && cd Bomber && python Tbomb.py")
 
 
 #Logo
